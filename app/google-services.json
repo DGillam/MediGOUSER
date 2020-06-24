@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "532771982979",
+    "firebase_url": "https://delivery-robot-a9f31.firebaseio.com",
+    "project_id": "delivery-robot-a9f31",
+    "storage_bucket": "delivery-robot-a9f31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532771982979:android:de3b830ecfce0ed5ec15b6",
+        "android_client_info": {
+          "package_name": "com.example.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532771982979-gs5hpojnp7k7q6n7kotb6k7uibft1j03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO7PYu8tuyWXKc0jaUjO6BJ_ULBYaS4e0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532771982979-gs5hpojnp7k7q6n7kotb6k7uibft1j03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
